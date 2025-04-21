@@ -1,14 +1,12 @@
-# Remove this line before deploying
-_____REMOVE_THIS_LINE_____=True
 # REQUIRED CONFIG
-BOT_TOKEN = ""                              # Require restart after changing it while bot running
-OWNER_ID = ""                               # Require restart after changing it while bot running
-TELEGRAM_API = ""                           # Require restart after changing it while bot running
-TELEGRAM_HASH = ""                          # Require restart after changing it while bot running
+BOT_TOKEN = "7963574219:AAGd7V2HR2pcpQW_ND1Pgsyzcfi8IyKBPok"                              # Require restart after changing it while bot running
+OWNER_ID = "7859280271"                               # Require restart after changing it while bot running
+TELEGRAM_API = "2442064939"                           # Require restart after changing it while bot running
+TELEGRAM_HASH = ""560f107ef98507cdd0a567a665b9ad80                          # Require restart after changing it while bot running
 
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""                    # Require restart after changing it while bot running
-DATABASE_URL = ""                           # Require restart after changing it while bot running
+DATABASE_URL = "DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://abhijitghosh789034:<abhijitghosh789034>@cluster0.jwroecy.mongodb.net/"                           # Require restart after changing it while bot running
 DOWNLOAD_DIR = "/usr/src/app/downloads/"    # Require restart after changing it while bot running
 CMD_SUFFIX = ""                             # Require restart after changing it while bot running
 AUTHORIZED_CHATS = ""                       # Require restart after changing it while bot running
@@ -26,7 +24,7 @@ FSUB_IDS = ""
 BOT_PM = ""
 
 # GDrive Tools
-GDRIVE_ID = ""
+GDRIVE_ID = "1LDbv7O4rN5LArRuDjFOp8j65waOb7wYF"
 USER_TD_MODE = ""
 USER_TD_SA = ""
 INDEX_URL = ""
@@ -71,7 +69,7 @@ MIRROR_FILENAME_SUFFIX = ""
 MIRROR_FILENAME_REMNAME = ""
 
 # Log Channel/SuperGroup (Topics Support)
-LEECH_LOG_ID = ""
+LEECH_LOG_ID = "-1002442064939"
 MIRROR_LOG_ID = ""
 LINKS_LOG_ID = ""
 
